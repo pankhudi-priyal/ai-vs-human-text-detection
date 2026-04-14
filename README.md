@@ -10,9 +10,11 @@ This project compares three deep learning models to classify whether a piece of 
 | LSTM | Sequential Deep Learning |
 | BERT | Transformer-based |
 
-## Dataset
-- Source: Kaggle - AI vs Human Text Dataset
+##  Dataset
+- Source: [AI vs Human Text - Kaggle](https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text)
 - Binary labels: `0` = Human, `1` = AI
+- Dataset is not stored in this repo due to size limits.
+- To use it, download it from Kaggle or follow the setup steps in each notebook.
 
 ##  Project Structure
 ai-vs-human-text-detection/
