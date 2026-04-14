@@ -38,6 +38,9 @@ ai-vs-human-text-detection/
 | LSTM | 98% | 0.98 | 0.98 | 0.98 |
 | BERT | 99% | 0.99 | 0.99 | 0.99 |
 
+## 📊 Visual Comparison
+![Model Comparison](results/model_comparison.png)
+
 ## 🔍 Key Findings
 - All three models performed exceptionally well on this dataset
 - Logistic Regression surprisingly matched BERT at 99% accuracy, showing TF-IDF features are very effective for this task
